@@ -1,0 +1,14 @@
+#wrapperTop{background:none;}
+#wrapperMiddle{background:none;}
+#wrapperBottom{background:none;}
+
+.nav a {color:black;}
+.nav .parent{width:100px !important;}
+.nav *{background:white;}
+.nav img{display:none;}
+
+#home-left{display:none;}
+#home-right{background:white;clear:left;}
+
+#interior-left{background:white;width:120px;}
+#interior-right{background:white;width:80%;}
