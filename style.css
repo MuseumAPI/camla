@@ -11,10 +11,8 @@ fieldset { margin: 0; padding: 0; border: 0; }
 form { margin: 0; padding: 0; border: 0; }
 label { margin: 0; padding: 0; border: 0; }
 legend { margin: 0; padding: 0; border: 0; }
-table { margin: auto; padding: 0; border: 0; border-spacing: 0;}
-tr { margin: 0; padding: 0; border: 0; }
-th { margin: 0; padding: 0; border: 0; }
-td { margin: 0; padding: 1em; border: 0; }
+
+td { padding-right: 1em; }
 
 a {
 	-webkit-transition: color 0.2s ease;
@@ -227,3 +225,9 @@ hr { border: none; border-bottom: 1px dotted #CCCCCC; height: 1px; margin: 1em 0
 .home-video h2 {color: #F8F8F8; }
 .home-video a { color: #d15144; }
 .home-video a:hover { color: #B23232; }
+
+/* Columns */
+
+.columns-two { overflow: hidden; }
+.columns-two .column {width: 319px; padding-left: 10px; float: left; }
+.columns-two .column.firstcolumn { padding-left: 0; }
