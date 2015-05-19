@@ -30,9 +30,10 @@
 					<a href="/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.gif" alt="logo" border="none" id="logo"/></a>
 					
 					<div class="webicons">
-						<a href="http://www.flickr.com/photos/camla_org/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/flickr_icon_s.gif" alt="CAM flickr" /></a>
-						<a href="http://twitter.com/camlaorg"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/twitter_s.gif" alt="CAM twitter" /></a>
-						<a href="http://www.facebook.com/chineseamericanmuseum"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/facebook_s.gif" alt="CAM facebook" /></a><br />
+						<a href="http://www.flickr.com/photos/camla_org/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/flick-small.png" alt="CAM on Flickr" /></a>
+						<a href="http://twitter.com/camlaorg"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/twit-small.png" alt="CAM on Twitter" /></a>
+						<a href="http://www.facebook.com/chineseamericanmuseum"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fb-small.png" alt="CAM on Facebook" /></a>
+						<a href="https://instagram.com/camlaorg"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/insta-small.png" alt="CAM on Instagram" /></a><br />
 					</div>
 
 					<form class="searchForm" action="http://www.google.com/cse" id="cse-search-box"><div>
